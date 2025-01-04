@@ -3,7 +3,7 @@ h1{
     font-family: Arial, Helvetica, sans-serif;
 }
 .Note-1{
-    background-color: #e8f5ff; width: 20%;
+    background-color: #e8f5ff; width: 80%;
     text-align: center;
 }
 #H-P{
@@ -12,8 +12,8 @@ h1{
 }
 .Note-2{
     font-size: larger;
-    background-color: #e8f5ff; width: 20%;
+    background-color: #e8f5ff; width: 80%;
 }
 .Note-3{
-    background-color: #e8f5ff; width: 20%;
+    background-color: #e8f5ff; width: 80%;
 }
